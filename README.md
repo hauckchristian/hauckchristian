@@ -4,10 +4,6 @@ Hi 👋 My name is verachernya
 ============================
 [https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed)
 
-1
--
-
-1
 
 * 🌍  I'm based in usa
 
